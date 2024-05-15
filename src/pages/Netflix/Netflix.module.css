@@ -35,18 +35,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #808bff;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .pagButton:hover {
-    background-color: #0056b3;
+    background-color: #808bff;
 }
 
 .pagButton.active {
-    background-color: #0056b3;
+    background-color: #808bff;
 }
 
 .pagButton:disabled {
@@ -99,18 +99,18 @@
     margin: 0 5px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: #808bff;
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .paginationButton:hover {
-    background-color: #0056b3;
+    background-color: #808bff;
 }
 
 .paginationButton.active {
-    background-color: #0056b3;
+    background-color: #808bff;
 }
 
 .paginationButton:disabled {
